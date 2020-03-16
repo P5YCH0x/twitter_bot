@@ -2,6 +2,8 @@
 this is a twitter bot that favorites and retweets based on your search term
 
 SETUP:
+ you will need to install the tweepy library in python 3.
+
  on line 4 and 5 replace:
  API_KEY              : your twitter api key
  API_SECRET_KEY       : your twitter api secret key
